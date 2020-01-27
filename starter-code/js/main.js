@@ -1,4 +1,4 @@
-const cards = [
+let cards = [
   { name: 'aquaman', img: 'aquaman.jpg' },
   { name: 'batman', img: 'batman.jpg' },
   { name: 'captain america', img: 'captain-america.jpg' },
